@@ -248,7 +248,7 @@ Dashboard'da kuzatilgan natijalar:
 
 | Ko‘rsatkich | Natija |
 |---|---:|
-| Active Agents | 1 |
+| Active Agents | 2 |
 | Disconnected Agents | 0 |
 | Critical Alerts | 0 |
 | High Alerts | 0 |
@@ -297,4 +297,4 @@ Dashboard orqali Agent holati va xavfsizlik alertlarini kuzatish amaliyoti bajar
 **Project:** Wazuh SIEM Security Monitoring Lab  
 **Version:** Wazuh 4.14.10  
 **Environment:** VMware Workstation  
-**Status:** Dashboard'da 1 ta Active Agent ko‘rsatilgan.
+**Status:** Dashboard'da 2 ta Active Agent ko‘rsatilgan.
